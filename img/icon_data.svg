@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13.755" height="12.084" viewBox="0 0 13.755 12.084">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="icon_data" transform="translate(0.5 0.618)">
+    <path id="パス_12014" data-name="パス 12014" class="cls-1" d="M5,8V18.876H17.156" transform="translate(-5 -7.911)"/>
+    <path id="パス_12015" data-name="パス 12015" class="cls-1" d="M6,16.317l4.8-4.8,1.919,1.919L18.156,8" transform="translate(-5.68 -7.911)"/>
+    <line id="線_540" data-name="線 540" class="cls-1" y2="3" transform="translate(12.755 -0.115)"/>
+    <line id="線_541" data-name="線 541" class="cls-1" x2="3" transform="translate(9.755 -0.115)"/>
+  </g>
+</svg>

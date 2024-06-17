@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12.234" height="12.03" viewBox="0 0 12.234 12.03">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #f7f7f7;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="icon" transform="translate(0.703 0.703)">
+    <path id="パス_12016" data-name="パス 12016" class="cls-1" d="M6.33,7l4.232,5.259v5.568l2.475-1.547V12.259H13.03L17.361,7H9.015" transform="translate(-6.33 -7)"/>
+  </g>
+</svg>
